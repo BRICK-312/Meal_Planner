@@ -1,0 +1,42 @@
+Meal Planning App
+
+Platform:
+	- Web
+	- Hosted on GitHub
+
+Interface:
+	- Touch
+	- Mouse/Keyboard
+
+Features:
+	- Recipie Library
+		- Tag system
+		- Notes and adjustments section
+		- Search by ingredient
+		- Side/Main indicator
+		- Servings
+		- Versioning
+	- Ingredient Database
+		- Tag system
+		- Unit type for amounts/count
+		- Expiration estimate
+	- Meals
+		- Recipe + Sides
+		- Summary
+			- List included ingredients by food group
+				- Fruit/Vegetable/Grain/Protein/Dairy
+	- Recipie Suggestions based on an ingredient or ingredients
+	- Shopping List generation
+	- Weekkly Planner
+		- Drop in any day by either recipie or meal
+		- Save meals for later use
+	- Shopping Assistant
+		- Lists all needed ingredients
+		- Allows amount level subtractions based on what we have
+		- Knows when you bought and can warn of expiriation
+	- History
+		- Ingredients
+		- Recipies
+
+Options:
+	- Week starts on
